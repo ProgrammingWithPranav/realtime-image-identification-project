@@ -1,0 +1,36 @@
+body{
+    background-image: url("background.jpg");
+}
+
+#heading {
+    width: 99%;
+    border-radius: 25px;
+    border: 1px solid;
+    box-shadow: 5px 10px 25px gray;
+}
+
+.orangeBtn {
+    width: 150px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 25px gray;
+}
+
+.giveShadow{
+    box-shadow: 5px 10px 25px gray;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+}
+
+canvas {
+    border: 10px solid;
+    border-style: dashed;
+    box-shadow: 5px 10px 25px orange;
+}
